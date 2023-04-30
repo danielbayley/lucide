@@ -5,21 +5,13 @@
     "watch",
     "hide",
     "hidden",
-    "nut",
-    "walnut",
-    "food",
-    "diet",
-    "leaf",
-    "autumn",
-    "fall",
-    "plant"
+    "closed",
+    "shut",
+    "eyelid",
+    "blind"
   ],
   "categories": [
     "accessibility",
-    "photography",
-    "food-beverage",
-    "nature",
-    "seasons",
-    "sustainability"
+    "photography"
   ]
 }
