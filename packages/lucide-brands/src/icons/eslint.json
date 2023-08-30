@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "danielbayley"
+  ],
+  "tags": [
+    "logo",
+    "linter",
+    "testing",
+    "continuous integration",
+    "ci",
+    "workflow",
+    "code",
+    "coding",
+    "programming"
+  ],
+  "categories": [
+    "development",
+    "tools",
+    "brands"
+  ]
+}
