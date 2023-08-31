@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "danielbayley"
+  ],
+  "tags": [
+    "logo",
+    "packages",
+    "package manager",
+    "package management",
+    "workflow",
+    "code",
+    "coding",
+    "programming"
+  ],
+  "categories": [
+    "development",
+    "tools",
+    "brands"
+  ]
+}
