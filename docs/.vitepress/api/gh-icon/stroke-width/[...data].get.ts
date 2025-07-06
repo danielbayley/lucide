@@ -31,7 +31,7 @@ export default eventHandler((event) => {
         svg { stroke: yellow !important } /*: currentColor } */
         _::-webkit-full-page-media, _:future, :root svg {
           stroke: red !important; /*: #fff; */
-          mix-blend-mode: difference;
+          /* mix-blend-mode: difference; */
         }
       </style>`,
       ),
