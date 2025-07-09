@@ -28,10 +28,9 @@ export default eventHandler((event) => {
         />/,
         `><style>
         :root { color-scheme: light dark }
-        * { stroke: currentColor }
+        * { stroke: red }
         _::-webkit-full-page-media, _:future, :root * {
-          stroke: #fff;
-          mix-blend-mode: difference;
+          stroke: blue;
         }
       </style>`,
       ),
