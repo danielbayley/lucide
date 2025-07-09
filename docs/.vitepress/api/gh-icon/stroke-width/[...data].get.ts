@@ -27,11 +27,10 @@ export default eventHandler((event) => {
       .replace(
         />/,
         `><style>
-        @media screen and (prefers-color-scheme: light) {
-          svg { fill: transparent !important; }
-        }
-        @media screen and (prefers-color-scheme: dark) {
-          svg { stroke: #fff; fill: transparent !important; }
+        :root { color-scheme: light dark }
+        * { stroke: red }
+        _::-webkit-full-page-media, _:future, :root * {
+          stroke: blue;
         }
       </style>`,
       ),
