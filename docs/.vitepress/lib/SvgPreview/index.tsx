@@ -10,7 +10,7 @@ export const darkModeCss = `
   .svg-preview-radii-group,
   .svg-preview-shadow-mask-group,
   .svg-preview-shadow-group {
-    stroke: currentColor;
+    stroke: red;
   }
   _::-webkit-full-page-media, _:future, :root *:where(
     .svg
@@ -19,8 +19,7 @@ export const darkModeCss = `
     .svg-preview-shadow-mask-group,
     .svg-preview-shadow-group
   ) {
-    stroke: #fff;
-    mix-blend-mode: difference;
+    stroke: blue;
   }
 `;
 
